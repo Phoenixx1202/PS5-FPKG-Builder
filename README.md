@@ -106,5 +106,6 @@ Compressed image. The application decompresses it and processes the internal ima
 - If the build succeeds, the temporary extracted folder is removed.
 - If the build fails, the temporary folder may be preserved for diagnostics.
 
+<img width="1918" height="1031" alt="image" src="https://github.com/user-attachments/assets/e70eef7b-96b2-4e3f-a729-aaf9aae4f92d" />
 
 This project focuses on application engineering, metadata reading, source preparation, and package creation. It does not document or share sensitive information, private keys, or protected material.
